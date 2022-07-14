@@ -4,9 +4,9 @@
 We are a group of home improvement consultants that provide suggestions on how to refurbish the houses in selected neighborhoods in Ames, Iowa, including selecting the best features for homeowners to renovate, in order to improve the value of their homes in a cost-effective way.
 
 Based on the provided data, we will:
-- build several multiple linear regression models and the sale price and select one best-performing model as our production model
-- based on our production model, explore and recommand important features for home improvment
-- build models for selected neighorboods, explore and recommand important features for home improvment
+- build several multiple linear regression models and select one best-performing model as our production model
+- based on our production model, explore and recommend important features for home improvment
+- build models for selected neighorboods, explore and recommend important features for home improvment
 
 ## Background
 House value are influented by the following factors:([*source*](https://www.opendoor.com/w/blog/factors-that-influence-home-value))
@@ -51,8 +51,8 @@ As home improvement consultants, we are more interested at the factors or featur
 
 ## Conclusions and Recommendations
 - We built several models and found lasso models has the best performance
-- Based on the lasso model, we analyzed and found ' BsmtFin SF 1' and 'Fireplaces' as recommanded features for home improvements
-- We built models for some neighborhoods and recommanded some feature for home improvement
+- Based on the lasso model, we analyzed and found ' BsmtFin SF 1' and 'Fireplaces' as recommended features for home improvements
+- We built models for some neighborhoods and recommended some feature for home improvement
 - The neighorhood models also suggest that it is better to do home improvement for newer houses or high value houses because it can create more value
 ## Limitation and Future Enhancement
 - Our multiple regression models cannot meet the LINE assumption, other models should be considered
