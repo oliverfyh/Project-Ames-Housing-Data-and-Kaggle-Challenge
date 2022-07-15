@@ -35,8 +35,8 @@ As home improvement consultants, we are more interested at the factors or featur
 |**Year Built**|*Discrete*|Original construction date|
 |**Mas Vnr Type**|*nominal*|Masonry veneer type|
 |**Mas Vnr Area**|*Continuous*|PMasonry veneer area in square feet|
-|**Foundation**|*Nominal*| Rating of basement finished area|
-|**BsmtFin Type 1**|*Ordinal*|sale price| 
+|**Foundation**|*Nominal*| Type of foundation|
+|**BsmtFin Type 1**|*Ordinal*| Rating of basement finished area| 
 |**BsmtFin SF 1**|*Continuous*|Type 1 finished square feet|
 |**Total Bsmt SF**|*Continuous*|Total square feet of basement area|
 |**Gr Liv Area**|*Continuous*|Above grade (ground) living area square feet|
