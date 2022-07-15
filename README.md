@@ -55,6 +55,6 @@ As home improvement consultants, we are more interested at the factors or featur
 - We built models for some neighborhoods and recommended some feature for home improvement
 - The neighorhood models also suggest that it is better to do home improvement for newer houses or high value houses because it can create more value
 ## Limitation and Future Enhancement
-- Our multiple regression models cannot meet the LINE assumption, other models should be considered
+- Our multiple regression models cannot meet the LINE assumption, other non-regression models should be considered
 - Many data are highly imbalance and barely useful. Data collector might redesign what to be collected in the future
 - Many neigbhorhoods have insufficient data to build meaningful models. More data is needed
